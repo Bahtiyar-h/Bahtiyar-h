@@ -17,6 +17,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bahtiyar-h&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{bahtiyar-h}/count.svg)
+![](https://komarev.com/ghpvc/?username=bahtiyar-h&label=PROFILE+VIEWS)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
