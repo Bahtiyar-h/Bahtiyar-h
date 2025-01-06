@@ -17,6 +17,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bahtiyar-h&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bahtiyar-h&icon=1&color=3)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{bahtiyar-h}/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
